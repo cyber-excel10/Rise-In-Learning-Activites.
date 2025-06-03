@@ -1,6 +1,6 @@
 ## My Learning Journey
 
-# 1.Task: Implement a basic program that uses ownership concepts
+# Task: Implement a basic program that uses ownership concepts
 Task Details
 
 In this task, students will create a simple Rust program that demonstrates the concepts of ownership, borrowing, and references. The program will take two strings as input, concatenate them, and then print the result without violating any ownership rules.
@@ -23,7 +23,7 @@ Call the concatenate_strings function with string slices of the variables.
 Print the result to the console.
 Compile and run the program to test its functionality.
 
-2.Task: Create a simple calculator using enums and pattern matching
+# Task: Create a simple calculator using enums and pattern matching
 Task Details
 
 In this task, students will create a simple calculator in Rust that can perform basic arithmetic operations using enums and pattern matching.
